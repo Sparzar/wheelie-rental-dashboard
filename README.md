@@ -18,5 +18,8 @@ This project is a Power BI dashboard that analyzes rental bookings, revenue, and
 - Analyzed peak usage time for rentals
 
 ## 📷 Dashboard Preview
+## 📷 Dashboard Preview  
+![Dashboard](dashboard.png)
+
 
 
